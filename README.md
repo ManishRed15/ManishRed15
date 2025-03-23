@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="center">MSc in Computer Science | AWS Certified Solutions Architect </h4>
+<h3 align="center">MSc in Computer Science | AWS Certified Solutions Architect </h3>
 
 ###
 
