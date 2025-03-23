@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Software Engineer & AI Enthusiast</h2>
+<h1 align="center">Software Engineer & AI Enthusiast</h1>
 
 ###
 
-<h6 align="center">MSc in Computer Science | AWS Certified Solutions Architect </h6>
+<h4 align="center">MSc in Computer Science | AWS Certified Solutions Architect </h4>
 
 ###
 
